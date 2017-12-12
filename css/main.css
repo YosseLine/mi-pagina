@@ -160,4 +160,10 @@ div.col-xs-12.col-sm-12.col-md-4, div.col-xs-12.col-md-8, div.col-xs-12.col-md-4
 div.info-box{
    padding-bottom: 2em;
 }
+.view-mobile{
+  display: none;
+}
+.view-desktop{
+  display: inline-block;
+}
 }
